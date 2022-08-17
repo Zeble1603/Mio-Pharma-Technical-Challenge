@@ -1,6 +1,7 @@
 # Dependency directory & files
 node_modules
 package-lock.json
+.gitignore
 
 # Debug log from npm
 npm-debug.log
