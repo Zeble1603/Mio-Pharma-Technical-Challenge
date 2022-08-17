@@ -29,6 +29,9 @@ cd Mio-Pharma-Technical-Challenge
 
 Now let's install the dependencies we will need to make our project work
 
+run the following command :
+code .
+It should have opened the project on your text editor
 Create a .env file on the root of the folder, and add the information received by email.
 
 In your terminal, write the following command:
